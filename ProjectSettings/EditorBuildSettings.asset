@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/AR Tepmlate Scene.unity
-    guid: e8fed2fd92c3c494dbc1e1e3b97e74d0
+    path: Assets/Scenes/Basic_Face_Filter.unity
+    guid: a08705f75958d4d2fb719c9cbbc7a006
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
